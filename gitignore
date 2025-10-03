@@ -1,0 +1,9 @@
+# تجاهل مجلد node_modules
+node_modules/
+
+# تجاهل ملفات البيئة السرية
+.env
+
+# تجاهل ملفات السجلات
+npm-debug.log
+yarn-error.log
